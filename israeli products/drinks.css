@@ -1,0 +1,15 @@
+@font-face {
+    font-family: maharlika;
+    src: url(maharlika.zip);
+}
+body{
+background-color: #86EE60  ;
+}
+
+
+h1{
+    font-family: maharlika;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
